@@ -1,0 +1,7 @@
+PyAutoGUI==0.9.53
+python-dotenv==0.21.0
+pytweening==1.0.4
+selenium==4.5.0
+selenium-wire==5.1.0
+webdriver-manager==3.8.4
+packaging==21.3
